@@ -8,4 +8,4 @@ export {
   Context,
   type Middleware,
   type NextFunction,
-} from "https://deno.land/x/grammy@v1.7.3/mod.ts";
+} from "https://deno.land/x/grammy@v1.8.3/mod.ts";
